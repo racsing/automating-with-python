@@ -1,6 +1,6 @@
 ## Automate Stuffs in Python
 
-#### How to build the following automation projects:
+#### _How to build the following automation projects:_
 - Hacker News Headlines Emailer 
 - TED Talk Downloader
 - Table Extractor from PDF
@@ -8,9 +8,17 @@
 - Image Type Converter
 - Building Automated News Summarizer 
 
-#### Required Python Packages:
+#### _Required Python Packages:_
 - requests 
-- bs4
-- smtplib (default)
-- email.mime (default)
-- datetime (default)
+- bs4 
+- seaborn: data visualization
+- camelot-py
+
+Default packages:
+- re 
+- zipfile
+- io 
+- sys 
+- smtplib 
+- email.mime 
+- datetime 
